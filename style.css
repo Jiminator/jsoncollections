@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #1C1C1D;
+}
+
+h1 {
+    text-align: center;
+    color: #D4D4D4;   
+}
+
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: #212529;
+    color: #D4D4D4;
+}
+
+th, td {
+    border: 1px solid #424246;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #212529;
+    color: #2698ba;
+
+}
